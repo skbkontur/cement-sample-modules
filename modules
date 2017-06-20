@@ -10,3 +10,7 @@ url = git@github.com:KungA/cement-sample-B.git
 [module C]
 url = git@github.com:KungA/cement-sample-C.git
 
+
+[module D]
+url = git@github.com:KungA/cement-sample-D.git
+
