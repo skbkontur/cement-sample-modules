@@ -2,3 +2,7 @@
 [module A]
 url = git@github.com:KungA/cement-sample-A.git
 
+
+[module B]
+url = git@github.com:KungA/cement-sample-B.git
+
