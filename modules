@@ -1,0 +1,4 @@
+
+[module A]
+url = git@github.com:KungA/cement-sample-A.git
+
