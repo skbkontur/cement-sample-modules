@@ -6,3 +6,7 @@ url = git@github.com:KungA/cement-sample-A.git
 [module B]
 url = git@github.com:KungA/cement-sample-B.git
 
+
+[module C]
+url = git@github.com:KungA/cement-sample-C.git
+
