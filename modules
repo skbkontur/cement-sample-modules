@@ -1,16 +1,16 @@
 
 [module A]
-url = git@github.com:KungA/cement-sample-A.git
+url = git@github.com:skbkontur/cement-sample-A.git
 
 
 [module B]
-url = git@github.com:KungA/cement-sample-B.git
+url = git@github.com:skbkontur/cement-sample-B.git
 
 
 [module C]
-url = git@github.com:KungA/cement-sample-C.git
+url = git@github.com:skbkontur/cement-sample-C.git
 
 
 [module D]
-url = git@github.com:KungA/cement-sample-D.git
+url = git@github.com:skbkontur/cement-sample-D.git
 
